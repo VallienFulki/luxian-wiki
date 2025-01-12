@@ -1,6 +1,9 @@
 ---
 tags:
   - Info
+  - Astri
+  - Lumen_Knight
+  - Luminou
 aliases:
 ---
 
@@ -13,7 +16,7 @@ Nickname:
 Origin: 
 Location: 
 ════════════════════
-Species: 
+Species:  [[Astri]] (Comet Phoenix)
 Age: 
 Birthday: 
 Pronouns: 

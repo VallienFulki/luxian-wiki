@@ -1,12 +1,12 @@
 ---
 tags:
   - Chief
-  - Divus
   - EM_User
   - Lumen_Knight
   - Luminou
   - Region_Leader
   - Info
+  - Astri
 aliases:
   - Lumi
   - Luminous
@@ -21,7 +21,7 @@ aliases:
 <font color="#f79646">Origin:</font>  ???
 <font color="#f79646">Location:</font>  Luminou
 ════════════════════
-<font color="#f79646">Species:</font>  Divus
+<font color="#f79646">Species:</font>  [[Astri|Astri]]
 <font color="#f79646">Age:</font>  Around 1000+
 <font color="#f79646">Birthday:</font>  10/12
 <font color="#f79646">Pronouns:</font>  She/Her
