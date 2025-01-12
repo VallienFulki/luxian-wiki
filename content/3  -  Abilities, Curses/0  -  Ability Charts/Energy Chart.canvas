@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"15b171e17a61709b","type":"text","text":"Eneri Magia  / Magic Energy / EM\n\nBase Energy for Life and Magic.\n\nHow much EM you can handle is often determined by Genetics and Mental Strength.\nWe call this unit, Aptitude. \n\nIf you have enough Aptitude, you can become an EM user.\nIf you don't but try to become an EM user anyway, a high concentration of EM used for the process will painfully kill you.\n\nNon EM users will have small amounts of EM for basic life functions, such as your heart pumping.\nPeople are never born as an EM user, unless you are a Magia Essere.\n\nEM users have the ability to take EM to the \"next level\". They are able to use EM for casting magic due to high concentrations of EM changing their bodies.","x":-280,"y":-380,"width":525,"height":530,"color":"#cfeec8"},
+		{"id":"3db9f45fb77f016e","type":"text","text":"Fire Energy\n\nPassionate, Determined, The Light","x":-487,"y":730,"width":260,"height":130,"color":"1"},
+		{"id":"acf9278d2a0d8a68","type":"text","text":"Ice Energy\n\nCool, Coldhearted","x":-147,"y":915,"width":260,"height":130,"color":"5"},
+		{"id":"8f2de1d70e3d61ca","type":"text","text":"Water Energy\n\nCalm, \"Raging Ocean\"","x":183,"y":755,"width":260,"height":160,"color":"#6d76f3"},
+		{"id":"7b1a3cec02c2c008","type":"text","text":"Pure Magi\n\nBase Element every EM user will have. \nEM takes form into Pure Magi when used for combat magic.","x":-167,"y":240,"width":300,"height":175,"color":"#97cdf7"},
+		{"id":"41b1970ac62dc9a3","type":"text","text":"If a EM user, you have a chance of your EM resonating with a greater element.\n\nIf you are one or more of these traits, you have a chance.","x":-197,"y":495,"width":360,"height":160,"color":"#c8f5fe"},
+		{"id":"7fa2e45331109719","type":"text","text":"\n\n","x":730,"y":-1020,"width":377,"height":284,"color":"#060317"},
+		{"id":"ceda2627adb4b89a","type":"text","text":"Nox Unda / NU\n\nNox Unda is corrupted EM from severe negative feelings.\n\nThose who are far from Light, or don't believe in Light will become a target of the Nox Unda.\n\nNU is an Energy, but also a Living Being who wants only destruction.\n\n","x":902,"y":-375,"width":556,"height":260,"color":"#060317"},
+		{"id":"45188eb100e3db5f","type":"text","text":"When infected by NU, there are different stages\n\nStage progression depends on how hard the Victim can fight it. + Depends on how much they got hit.\n","x":992,"y":-55,"width":377,"height":175,"color":"#060317"},
+		{"id":"90d83eaf77a2dd20","type":"text","text":"Full Corruption\n\nCompletely takes over the victim's body.\n\nThe Victim is no longer themself, they are now only a vessel for the NU.\n\n","x":615,"y":150,"width":377,"height":164,"color":"#060317"},
+		{"id":"fac473bf1feff819","type":"text","text":"Half Corruption\n\nVictim still has control over their mind and body. \n\nStill has high risk for full corruption.\n\n","x":992,"y":314,"width":377,"height":180,"color":"#060317"},
+		{"id":"bf86552d951eeffa","type":"text","text":"Partial Corruption\n\nPart(s) of a body being affected, often resulting in losing functionality of the part(s).\n\n","x":1369,"y":150,"width":377,"height":140,"color":"#060317"}
+	],
+	"edges":[
+		{"id":"acf05cfda5a3d1d7","fromNode":"41b1970ac62dc9a3","fromSide":"bottom","toNode":"3db9f45fb77f016e","toSide":"top","color":"1"},
+		{"id":"9029b97aec97f053","fromNode":"41b1970ac62dc9a3","fromSide":"bottom","toNode":"acf9278d2a0d8a68","toSide":"top","color":"5"},
+		{"id":"260471c06120483c","fromNode":"41b1970ac62dc9a3","fromSide":"bottom","toNode":"8f2de1d70e3d61ca","toSide":"top","color":"#7075ff"},
+		{"id":"ea95a61dae5e5e35","fromNode":"7b1a3cec02c2c008","fromSide":"bottom","toNode":"41b1970ac62dc9a3","toSide":"top","color":"#adf5ff"},
+		{"id":"59a28c8f324388ea","fromNode":"15b171e17a61709b","fromSide":"bottom","toNode":"7b1a3cec02c2c008","toSide":"top"},
+		{"id":"bb92c37bf36c81ac","fromNode":"ceda2627adb4b89a","fromSide":"bottom","toNode":"45188eb100e3db5f","toSide":"top","color":"#0a0628"},
+		{"id":"4fc49bfc8a9a3737","fromNode":"45188eb100e3db5f","fromSide":"bottom","toNode":"90d83eaf77a2dd20","toSide":"top","color":"#0a092a"},
+		{"id":"409b1a7d6bf26d57","fromNode":"45188eb100e3db5f","fromSide":"bottom","toNode":"fac473bf1feff819","toSide":"top","color":"#0c082b"},
+		{"id":"416aaa07d79bc589","fromNode":"45188eb100e3db5f","fromSide":"bottom","toNode":"bf86552d951eeffa","toSide":"top","color":"#080a26"}
+	]
+}

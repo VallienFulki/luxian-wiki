@@ -1,0 +1,1 @@
+"Even the most fearsome warrior is afraid of the end. It's often a motivation to keep fighting until the last breath."
