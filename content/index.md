@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Luxian
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+(This site's contents are for those who are 18+ ONLY!)
+What does the word "Light" mean to you?
