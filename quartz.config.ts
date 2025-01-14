@@ -67,7 +67,7 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
-      Plugin.SyntaxHighlighting()
+      Plugin.SyntaxHighlighting(),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
