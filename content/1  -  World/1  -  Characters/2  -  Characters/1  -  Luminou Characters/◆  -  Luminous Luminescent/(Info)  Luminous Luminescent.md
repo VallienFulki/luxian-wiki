@@ -12,7 +12,7 @@ aliases:
   - Luminous
 ---
 
-![[Lumi Chib.png|238]]
+
 
 ##### Profile
 <font color="#f79646">Profession: </font> Chief of Luminou / Chief of Lumen Knights

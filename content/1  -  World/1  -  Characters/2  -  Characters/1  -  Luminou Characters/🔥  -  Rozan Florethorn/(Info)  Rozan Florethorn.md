@@ -6,30 +6,36 @@ tags:
   - Human
   - Lumen_Knight
   - Phoenix_Ignition
+  - Dawnweaver
 aliases:
   - Rozan
   - Rozu
+  - Rozan Florethorn
+  - Rozan Dawnweaver
 ---
 
 
 
-##### Profile
-Profession:  Lumen Knights Combat Division: Team Phoenix Ignition / Sometimes works at family's flower shop
-Title:  The Unchained Rose
-Nickname:  Rozu
-Origin:  Luminou
-Location:  Luminou
-════════════════════
-Species:  Human EM User
-Age:  23
-Birthday:  6/24
-Pronouns:  He/Him
-════════════════════
-Attribute(s):  Rose Flame
-Curse/Corruption:  Thorned Rose
-Weapon:  Razor Rose (Sword)
+#### Profile
 
-##### Stats
+|                  |                                                                                                     |
+| ---------------- | --------------------------------------------------------------------------------------------------- |
+| Profession       | Lumen Knights Combat Division: Team Phoenix Ignition<br><br>Sometimes works at family's flower shop |
+| Title            | The Unchained Rose                                                                                  |
+| Nickname         | Rozu                                                                                                |
+| Origin           | Luminou                                                                                             |
+| Location         | Luminou                                                                                             |
+|                  |                                                                                                     |
+| Species          | [[Human or Humanoid ME User\|Human]]                                                                |
+| Age              | Joins Team: 20<br>Marriage: 23                                                                      |
+| Birthday         | June 24                                                                                             |
+| Pronouns         | He/Him                                                                                              |
+|                  |                                                                                                     |
+| Attribute(s)     | Pure Magi (Thorned)<br><br>Rose Flame (Curse Broken)                                                |
+| Curse/Corruption | Thorned Rose                                                                                        |
+| Weapon(s)        | Razor Rose - Sword                                                                                  |
+
+#### Stats
 
 ###### General
 

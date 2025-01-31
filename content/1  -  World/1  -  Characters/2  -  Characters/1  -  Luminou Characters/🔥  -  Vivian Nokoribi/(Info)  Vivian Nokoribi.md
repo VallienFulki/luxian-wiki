@@ -8,28 +8,35 @@ tags:
   - Luminou
   - Nokoribi
   - Phoenix_Ignition
+  - Dawnweaver
 aliases:
   - Vivi
   - Vivian
+  - Vivian Nokoribi
+  - Vivian Dawnweaver
 ---
-![[Vivian Icon.webp|251]]
+![[Colorful Vivian Chib.png|238]]
 
-##### Profile
-<font color="#f4d47c">Profession:</font>   Lumen Knight Combat Division: Captain of Team Phoenix Ignition
-<font color="#f4d47c">Title:</font>  Knight of Embers
-<font color="#f4d47c">Nickname:</font>   Vivi
-<font color="#f4d47c">Origin:</font>   Lux
-<font color="#f4d47c">Location:</font>   Luminou
-════════════════════
-<font color="#f4d47c">Species:</font>   Divus
-<font color="#f4d47c">Age:</font>   BlaziIgni - 18 || Post BlaziIgni - 21 || Timeskip - 25
-<font color="#f4d47c">Birthday:</font>   4/18
-<font color="#f4d47c">Pronouns:</font>   She/Her
-════════════════════
-<font color="#f4d47c">Attribute(s):</font>  Fire
-<font color="#f4d47c">Weapon:</font>  Fire Scliser (Sword)
+### Profile
 
-##### Bio
+|              |                                                                                |
+| ------------ | ------------------------------------------------------------------------------ |
+| Profession   | Lumen Knight Combat Division: Captain of Team Phoenix Ignition                 |
+| Title        | Knight of Embers                                                               |
+| Nickname     | Vivi                                                                           |
+| Origin       | Lux                                                                            |
+| Location     | Luminou                                                                        |
+|              |                                                                                |
+| Species      | [[Divus]]                                                                      |
+| Age          | Start: 18<br>Marriage: 23                                                      |
+| Birthday     | April 18                                                                       |
+| Pronouns     | She/Her                                                                        |
+|              |                                                                                |
+| Attribute(s) | Fire                                                                           |
+| Weapon(s)    | Fire Scliser V1 - Sword w/Core<br><br>Fire Scliser V2 - Spellblade + Spelltome |
+
+
+### Bio
 
 Despite being through a lot, her burning smile will never snuff out.
 
@@ -37,7 +44,20 @@ Previously she was known to be cold, refusing to think that she can't find light
 
 Nowadays, she's intelligent, playful, and caring. With the warm smile she carries, as more and more people find a light during their dark times because of her. It sounds, familiar to a certain Knight related to the Sun.
 
-##### Stats
+##### Additional Info
+
+
+|             |                                                                                                                                                                                                                                           |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Strengths   | Vivi's specialty as a Combat Division member is Offense.                                                                                                                                                                                  |
+| Weaknessess | Naturally her weakest point is Defense, Vivi can only make short lasting shields in front of herself.<br><br>Other than combat, Vivian tends to be a workaholic. To the point where her team tries to find ways to make Vivi take breaks. |
+|             |                                                                                                                                                                                                                                           |
+| Hobbies     | Reading while on desk or on bed.                                                                                                                                                                                                          |
+|             |                                                                                                                                                                                                                                           |
+|             |                                                                                                                                                                                                                                           |
+
+
+### Stats
 
 ###### General
 
@@ -56,25 +76,18 @@ Energy:
 Demeanor:  
 Consideration:  (Thoughtful)  ◆◆◆◆◇◇◇  (Impulsive)
 
+### Relations
 
-##### Strengths / Weaknesses
-
-Vivi's specialty as a Combat Division member is Offense.
-Naturally her weakest point is Defense, Vivi can only make short lasting shields in front of herself.
-
-Other than combat, Vivian tends to be a workaholic. To the point where her team tries to find ways to make Vivi take breaks.
-
-
-##### Hobbies
-
-During Vivian's free time she likes to read books either on her desk or in bed.
+|                                        |                                                 |
+| -------------------------------------- | ----------------------------------------------- |
+| [[(Info)  Rozan Florethorn\|Rozan]]    | Arc 3-7 - Romantic Partner<br>Arc 8-? - Husband |
+| Zalika                                 | Team Member / Friend / Mentor                   |
+| Syn                                    | Team Member / Friend                            |
+| [[(Info)  Luminous Luminescent\|Lumi]] | Chief of LuKni / Friend                         |
+| [[(Info)  Elina Florethorn\|Elina]]    | Sister in Law                                   |
+| Lux                                    | Predecessor of Nokoribi                         |
 
 
-##### Relations
-
-A
-
-
-##### Additional Notes
+### Additional Notes
 
 A
