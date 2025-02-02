@@ -13,7 +13,7 @@ aliases:
   - Rozan Florethorn
   - Rozan Dawnweaver
 ---
-
+![[Colorful Rozan Chib Smol.png|321]]
 
 
 #### Profile
@@ -22,7 +22,7 @@ aliases:
 | ---------------- | --------------------------------------------------------------------------------------------------- |
 | Profession       | Lumen Knights Combat Division: Team Phoenix Ignition<br><br>Sometimes works at family's flower shop |
 | Title            | The Unchained Rose                                                                                  |
-| Nickname         | Rozu                                                                                                |
+| Nicknames        | Rozu<br>Rose Boi                                                                                    |
 | Origin           | Luminou                                                                                             |
 | Location         | Luminou                                                                                             |
 |                  |                                                                                                     |
@@ -71,7 +71,16 @@ A
 
 ##### Relations
 
-Sister - [[(Info)  Elina Florethorn|Elina]] 
+
+|                                     |                                              |
+| ----------------------------------- | -------------------------------------------- |
+| Ronan                               | Father                                       |
+| Viola                               | Mother                                       |
+| [[(Info)  Elina Florethorn\|Elina]] | Sister                                       |
+| [[(Info)  Vivian Nokoribi\|Vivian]] | Arc 3-7 - Romantic Partner<br>Arc 8-? - Wife |
+| Zalika                              | Team Member / Friend                         |
+| Syn                                 | Team Member / Friend                         |
+
 
 
 ##### Additional Notes

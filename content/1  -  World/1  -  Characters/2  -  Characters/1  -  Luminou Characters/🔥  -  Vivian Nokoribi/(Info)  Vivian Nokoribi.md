@@ -15,7 +15,7 @@ aliases:
   - Vivian Nokoribi
   - Vivian Dawnweaver
 ---
-![[Colorful Vivian Chib.png|238]]
+![[Colorful Vivian Chib Smol.png|296]]
 
 ### Profile
 
