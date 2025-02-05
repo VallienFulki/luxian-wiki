@@ -6,7 +6,7 @@ Very subject to change!
 
 ### The Luminance Archives
 
-#### Team Phoenix Ignition Story
+#### Team Nexus Flare Story
 
 | Main Characters                     | Side Characters                        | Antagonists |
 | ----------------------------------- | -------------------------------------- | ----------- |

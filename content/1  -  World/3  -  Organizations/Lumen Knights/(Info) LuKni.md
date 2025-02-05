@@ -1,9 +1,19 @@
 ---
 tags:
-  - List
   - Info
+  - Lumen_Knight
+aliases:
+  - Lumen Knights
+  - LuKni
 ---
-### **Luminous Division**
+### What is LuKni?
+
+The Lumen Knights focus on helping fellow citizens of their region and/or other regions.
+
+
+### LuKni Divisions
+
+#### Luminous Division
 
 Leaders of the Lumen Knights, keeping things in check throughout the Divisions.
 Each Division has a Captain.
@@ -13,17 +23,17 @@ Luminous Luminescent has the highest role of the organization as Chief, supervis
 Estelle Luminescent is Lumi's Secretary to keep her in check and organized.
 She can also temporarily adopt the Chief role if something happens to Lumi.
 
-### **Combat Division**
+#### Combat Division
 
 Combat and Support Classes works together in order to defend their region and its people.
 
 
-### **Perceiver Division**
+#### Perceiver Division
 
 One of the most vital divisions for the LuKni, observing constantly using data in order for the Combat Division's missions to go smoothly.
 
 
-### **Vitality Division**
+#### Vitality Division
 
 Infirmary - Vitalweavers work here, constantly on the clock to save lives from injuries and disease.
 

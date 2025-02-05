@@ -7,7 +7,7 @@ tags:
   - Lumen_Knight
   - Luminou
   - Nokoribi
-  - Phoenix_Ignition
+  - Nexus_Flare
   - Dawnweaver
 aliases:
   - Vivi
@@ -21,7 +21,7 @@ aliases:
 
 |              |                                                                                |
 | ------------ | ------------------------------------------------------------------------------ |
-| Profession   | Lumen Knight Combat Division: Captain of Team Phoenix Ignition                 |
+| Profession   | Lumen Knight Combat Division: Captain of Team Nexus Flare                      |
 | Title        | Knight of Embers                                                               |
 | Nickname     | Vivi                                                                           |
 | Origin       | Lux                                                                            |

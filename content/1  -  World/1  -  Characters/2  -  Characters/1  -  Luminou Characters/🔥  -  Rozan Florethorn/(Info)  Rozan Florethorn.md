@@ -5,7 +5,7 @@ tags:
   - EM_User
   - Human
   - Lumen_Knight
-  - Phoenix_Ignition
+  - Nexus_Flare
   - Dawnweaver
 aliases:
   - Rozan
@@ -18,22 +18,22 @@ aliases:
 
 #### Profile
 
-|                  |                                                                                                     |
-| ---------------- | --------------------------------------------------------------------------------------------------- |
-| Profession       | Lumen Knights Combat Division: Team Phoenix Ignition<br><br>Sometimes works at family's flower shop |
-| Title            | The Unchained Rose                                                                                  |
-| Nicknames        | Rozu<br>Rose Boi                                                                                    |
-| Origin           | Luminou                                                                                             |
-| Location         | Luminou                                                                                             |
-|                  |                                                                                                     |
-| Species          | [[Human or Humanoid ME User\|Human]]                                                                |
-| Age              | Joins Team: 20<br>Marriage: 23                                                                      |
-| Birthday         | June 24                                                                                             |
-| Pronouns         | He/Him                                                                                              |
-|                  |                                                                                                     |
-| Attribute(s)     | Pure Magi (Thorned)<br><br>Rose Flame (Curse Broken)                                                |
-| Curse/Corruption | Thorned Rose                                                                                        |
-| Weapon(s)        | Razor Rose - Sword                                                                                  |
+|                  |                                                                                                |
+| ---------------- | ---------------------------------------------------------------------------------------------- |
+| Profession       | Lumen Knights Combat Division: Team Nexus Flare<br><br>Sometimes works at family's flower shop |
+| Title            | The Unchained Rose                                                                             |
+| Nicknames        | Rozu<br>Rose Boi                                                                               |
+| Origin           | Luminou                                                                                        |
+| Location         | Luminou                                                                                        |
+|                  |                                                                                                |
+| Species          | [[Human or Humanoid ME User\|Human]]                                                           |
+| Age              | Joins Team: 20<br>Marriage: 23                                                                 |
+| Birthday         | June 24                                                                                        |
+| Pronouns         | He/Him                                                                                         |
+|                  |                                                                                                |
+| Attribute(s)     | Pure Magi (Thorned)<br><br>Rose Flame (Curse Broken)                                           |
+| Curse/Corruption | Thorned Rose                                                                                   |
+| Weapon(s)        | Razor Rose - Sword                                                                             |
 
 #### Stats
 

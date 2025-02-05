@@ -1,7 +1,7 @@
 ---
 tags:
   - Info
-  - Bounty_Hunter
+  - Nox_Hunter
   - Crimson_Scythe
   - Florethorn
 aliases:
