@@ -1,11 +1,7 @@
 ---
 tags:
   - Info
-  - Knight_Of_The_Celestials
-  - Divus
 aliases:
-  - Aylin Selene
-  - Aylin
 ---
 
 
@@ -15,24 +11,23 @@ aliases:
 
 |              |                                                    |
 | ------------ | -------------------------------------------------- |
-| Profession   | Knight of the Moon                                 |
-| Title        | Sleeping Celestial of Winter                       |
-| Nickname     | Aylin                                              |
-| Origin       | ???                                                |
-| Location     | ???                                                |
+| Title        | Noble of Crimson Lune<br><br>The Nobility's Scythe |
+| Nickname     | Rai                                                |
+| Origin       |                                                    |
+| Location     |                                                    |
 |              |                                                    |
-| Species      | [[Old Divus]]                                          |
-| Age          | Around 1000+                                       |
-| Birthday     | December 1                                         |
-| Pronouns     | They/Them                                          |
+| Species      | [[Divus]]                                          |
+| Age          | Around 21+                                         |
+| Birthday     | ???                                                |
+| Pronouns     | He/Him                                             |
 |              |                                                    |
-| Attribute(s) | Celestial Ice                                      |
-| Weapon(s)    | Lunar Phasium - Staff w/ Summonable Axe Spellblade |
+| Attribute(s) | Blood Flame                                        |
+| Weapon(s)    | Sword of Crimson Lune<br><br>Scythe                |
 
 
 ### Bio
 
-A
+The Nobility's Scythe, the one who ended the Scattered Light Era + "Reset" Luxian.
 
 
 ##### Additional Info
@@ -90,4 +85,4 @@ A
 
 ### Additional Notes
 
-Celestial Ice - A notable form is icy stars that can be thrown, freezes what it touches
+A

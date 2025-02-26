@@ -3,7 +3,7 @@ tags:
   - Info
   - Florethorn
   - EM_User
-  - Human
+  - Faunum
   - Lumen_Knight
   - Nexus_Flare
   - Dawnweaver

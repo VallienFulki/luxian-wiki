@@ -23,7 +23,7 @@ aliases:
 | Origin       | Lux                 |
 | Location     | Luminou             |
 |              |                     |
-| Species      | [[Divus]]           |
+| Species      | [[Old Divus]]           |
 | Age          | Deceased at 100     |
 | Birthday     |                     |
 | Pronouns     | They/Them           |

@@ -21,7 +21,7 @@ aliases:
 | Origin       | ???                                                   |
 | Location     | ???                                                   |
 |              |                                                       |
-| Species      | [[Divus]]                                             |
+| Species      | [[Old Divus]]                                             |
 | Age          | Deceased at around 500                                |
 | Birthday     | June 1                                                |
 | Pronouns     | They/Them                                             |

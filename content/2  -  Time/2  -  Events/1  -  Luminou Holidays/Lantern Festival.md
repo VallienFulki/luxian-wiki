@@ -1,5 +1,0 @@
----
-tags:
-  - Luminou
-  - Holiday
----

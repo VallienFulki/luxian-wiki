@@ -16,7 +16,7 @@ Nickname:
 Origin: 
 Location: 
 ════════════════════
-Species:  [[Astri]] (Comet Phoenix)
+Species:  [[Old Astri]] (Comet Phoenix)
 Age: 
 Birthday: 
 Pronouns: 

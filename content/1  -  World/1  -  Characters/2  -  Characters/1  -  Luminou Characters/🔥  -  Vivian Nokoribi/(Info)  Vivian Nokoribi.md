@@ -27,12 +27,12 @@ aliases:
 | Origin       | Lux                                                                            |
 | Location     | Luminou                                                                        |
 |              |                                                                                |
-| Species      | [[Divus]]                                                                      |
+| Species      | [[Old Divus]]                                                                      |
 | Age          | Start: 18<br>Marriage: 23                                                      |
 | Birthday     | April 18                                                                       |
 | Pronouns     | She/Her                                                                        |
 |              |                                                                                |
-| Attribute(s) | Fire                                                                           |
+| Attribute(s) | Fire / Dawn Fire                                                               |
 | Weapon(s)    | Fire Scliser V1 - Sword w/Core<br><br>Fire Scliser V2 - Spellblade + Spelltome |
 
 
