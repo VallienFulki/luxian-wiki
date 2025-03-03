@@ -5,6 +5,7 @@ tags:
 aliases:
   - Faunoid
   - (Faunoid)_Wolf
+  - (Faunoid)_Dragon
 ---
 ### Bio
 
