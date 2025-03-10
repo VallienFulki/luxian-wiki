@@ -15,7 +15,7 @@ aliases:
   - Vivian Nokoribi
   - Vivian Dawnweaver
 ---
-![[Colorful Vivian Chib Smol.png|296]]
+![[Vivi - Casual Ver - Asset.png|329]]
 
 ### Profile
 
@@ -27,12 +27,12 @@ aliases:
 | Origin       | Lux                                                                            |
 | Location     | Luminou                                                                        |
 |              |                                                                                |
-| Species      | [[Old Divus]]                                                                      |
-| Age          | Start: 18<br>Marriage: 23                                                      |
+| Species      | [[Old Divus]]                                                                  |
+| Age          | Story Start: 18<br>Marriage: 23                                                |
 | Birthday     | April 18                                                                       |
 | Pronouns     | She/Her                                                                        |
 |              |                                                                                |
-| Attribute(s) | Fire / Dawn Fire                                                               |
+| Attribute(s) | Fire / Dawn Fire - Persistence                                                 |
 | Weapon(s)    | Fire Scliser V1 - Sword w/Core<br><br>Fire Scliser V2 - Spellblade + Spelltome |
 
 
