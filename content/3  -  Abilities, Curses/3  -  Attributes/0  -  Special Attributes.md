@@ -1,9 +1,0 @@
-Only a select few may have these attributes.
-
-
-|                     |                                                                                                                                                                                                                                                                                   |
-| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Celestial Flame** |                                                                                                                                                                                                                                                                                   |
-| **Ember Flame**     | Successor of the Celestial Flame. All it takes are sparks to re-ignite a flame.                                                                                                                                                                                                   |
-| **Dawn Flame**      | Colors of the dawn sky weave together, to create a new light towards tomorrow.<br><br>**<u>Scion</u>**<br><br>The successor of the Embers' glow. Now it's her turn to create a new flame towards tomorrow.<br><br>**<u>Inflorescence</u>**<br><br>Flowers bloom towards tomorrow. |
-| **Celestial Ice**   |                                                                                                                                                                                                                                                                                   |

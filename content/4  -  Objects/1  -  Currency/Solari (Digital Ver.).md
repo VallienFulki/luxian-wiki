@@ -1,1 +1,0 @@
-Solari are converted into data in order to use this currency in Neo Skyline.
