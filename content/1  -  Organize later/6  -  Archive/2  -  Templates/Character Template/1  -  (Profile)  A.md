@@ -1,13 +1,3 @@
----
-tags:
-  - Lumen_Knights/Chief
-  - Region_Leader
-  - Region/Luminou
-aliases:
-  - Luminous Luminescent
-  - Luminous
-  - Lumi
----
 PIC HERE
 
 
@@ -45,6 +35,7 @@ A
 | -------------------- | --- |
 | **Family**           |     |
 | **Allies / Friends** |     |
+| **Romantic Partner** |     |
 | **Neutual**          |     |
 
 ### Stats
