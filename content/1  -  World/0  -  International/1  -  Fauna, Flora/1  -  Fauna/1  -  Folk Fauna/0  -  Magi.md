@@ -1,6 +1,10 @@
 ---
 tags:
   - Magi
+aliases:
+  - Magi
+  - Astri
+  - Tauri
 ---
 ### Description
 

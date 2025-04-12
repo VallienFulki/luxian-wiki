@@ -1,0 +1,39 @@
+### Casual
+
+|                  |                                                             |
+| ---------------- | ----------------------------------------------------------- |
+| **Good Morning** | You sure look alive! Did the bed try to "kidnap" you again? |
+|                  |                                                             |
+|                  |                                                             |
+|                  |                                                             |
+|                  |                                                             |
+|                  |                                                             |
+|                  |                                                             |
+
+### About:
+
+|                       |                                                                                                                                                                                                                                                                                                                                                           |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **About: Nokoribi**   | Being a Nokoribi isn't just about upholding the legacy of those before me, it's also about improving the legacy.<br><br>Such as, simply enjoying life! Did you expect me to say something ambitious? Those before me failed to value their own lives.<br>It's rather dull to think your life is only for fighting and protecting others, don't you think? |
+| **About: Dawnweaver** | We retired our birth last names, to forge a new one.<br><br>With this new era started, me and my husband shall weave the dawn towards a brighter tomorrow!                                                                                                                                                                                                |
+|                       |                                                                                                                                                                                                                                                                                                                                                           |
+|                       |                                                                                                                                                                                                                                                                                                                                                           |
+|                       |                                                                                                                                                                                                                                                                                                                                                           |
+|                       |                                                                                                                                                                                                                                                                                                                                                           |
+|                       |                                                                                                                                                                                                                                                                                                                                                           |
+
+
+
+### Mentions
+
+|                                                |                                                                                                                                                                                                                                                                                                                                      |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Lux                                            | The only time I was able to "meet" my predecessor was in one of Wisteria's immersive books.<br><br>In those brief moments, I could feel their radiance piercing the darkness just by existing.                                                                                                                                       |
+| Eirian                                         | They were my light, shielding me from the dark until it was my time to inherit the legacy.<br>I used to hold a lot of anger about things they should have done. But these days, I hope they're resting peacefully with how much I grown over the years.                                                                              |
+| [[1  -  (Profile) Luminous Luminescent\|Lumi]] | If it weren't for her kindness, I would have been lost in the darkness long ago.                                                                                                                                                                                                                                                     |
+| Rozan                                          | He is much more than his claim of being just a man raised in a flower shop. There's a lot of untapped potential hidden in his cute and handsome body. He's also quite kind, often wanting to help around. With a hint of charisma. <br><br>But Rozu still wonders how he managed to take my V-Card. Sigh, that adorably modest rose. |
+| Rozan (Husband)                                | The rose had bloomed, now is forging his own path with me.<br>No matter what...We're here for each other, and others!                                                                                                                                                                                                                |
+| Zalika                                         | Because of her, me and our team was able to meet each other.<br>Hm? It sounds corny? So what? I appreciate the small things in life.                                                                                                                                                                                                 |
+| Syn                                            | I admire their dedication towards their craft.<br>It may seem like potions is all they care about, but I believe you should take some time to learn about them.                                                                                                                                                                      |
+| Sage                                           | Cunning lil fox, still want to attempt with settling the score?                                                                                                                                                                                                                                                                      |
+

@@ -1,6 +1,14 @@
 ---
 tags:
   - Faunoids
+aliases:
+  - Faunoids
+  - Faunoid
+  - Basic Faunoid
+  - Wolf Faunoid
+  - Fox Faunoid
+  - Lizard Faunoid
+  - Dragon Faunoid
 ---
 ### Description
 
@@ -38,12 +46,21 @@ Agile and stealthy.
 Climbs on walls, has long tongues, and can mask with the environment.
 
 
+##### Dragon Faunoid
+
+An ancient variant, not much is currently known about them.
+
+
 
 #### Aquarians
 
 #Faunoids/Aquarians 
 
 Excels in the water, not so much on land.
+
+##### Fish Aquarian
+
+Watch out! They may be at the bottom of the chain, however they still pack a punch.
 
 
 #### Avianoids
