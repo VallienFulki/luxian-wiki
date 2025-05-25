@@ -27,6 +27,7 @@ aliases:
 | **Species**     | Astri                                          |
 | **Age**         | 23+                                            |
 | **Birthday**    | 4/18                                           |
+| **Birthplace**  | Luminou                                        |
 | **Attribute**   | Dawn Flame                                     |
 | **Sexuality**   | Bisexual                                       |
 | **Occupation**  | Lumen Knights: Sentinel Division - Nexus Flare |
@@ -51,12 +52,12 @@ aliases:
 
 ### Relations
 
-|                      |                                                                                                                 |
-| -------------------- | --------------------------------------------------------------------------------------------------------------- |
-| **Family**           | Lux - Predecessor of Nokoribi<br>Eirian - Sibling<br><br>Ronan, Viola - Parents in Law<br>Elina - Sister in Law |
-| **Allies / Friends** | **<u>Team Nexus Flare</u>**<br>Zalika, Syn, Sage<br><br>**<u>Lumen Knights</u>**<br>Lumi                        |
-| **Romantic Partner** | Rozan - Husband                                                                                                 |
-| **Neutral**          |                                                                                                                 |
+|                      |                                                                                                                                                                                                    |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Family**           | Lux - Predecessor of Nokoribi<br>Eirian - Sibling<br><br>[[Ronan Florethorn\|Ronan]] (Father in Law)<br>[[Viola Florethorn\|Viola]] (Mother in Law)<br>[[Elina Florethorn\|Elina]] (Sister in Law) |
+| **Allies / Friends** | **<u>Team Nexus Flare</u>**<br><br><br>**<u>Lumen Knights</u>**<br>[[Luminous Luminescent\|Lumi]]                                                                                                  |
+| **Romantic Partner** | [[Rozan Dawnweaver\|Rozan]] (Husband)                                                                                                                                                              |
+| **Neutral**          |                                                                                                                                                                                                    |
 
 
 ### Extra

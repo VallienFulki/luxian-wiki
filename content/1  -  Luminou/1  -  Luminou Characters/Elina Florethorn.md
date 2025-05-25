@@ -1,39 +1,31 @@
 ---
-tags:
-  - Family/Florethorn
-  - Title/Dawnweaver
-  - Realms/Luminou
-  - Faunoids/Basic_Faunoid
-  - Lumen_Knights/Sentinel_Division/Nexus_Flare
+tags: 
 aliases:
-  - Rozan Florethorn
-  - Rozan
-  - Rozu
+  - Elina
+  - Elly
 ---
 # Info
 
 ### Bio
 
-"I looked at fate in the face, and told, "I win"."
-
-
+A
 
 ### Overview
 
 |                        |                          |
 | ---------------------- | ------------------------ |
-| **Full Name**          | Rozan Dawnweaver         |
+| **Full Name**          | Elina Florethorn         |
 | **Family Name**        | Florethorn               |
-| **Nickname**           | Rozu                     |
-| **Pronouns**           | He / Him                 |
-| **Gender**             | Assigned Male            |
+| **Nickname**           | Elly                     |
+| **Pronouns**           | She / Her                |
+| **Gender**             | Assigned Female          |
 | **Species**            | Basic Faunoid            |
-| **Age**                | 23+                      |
-| **Birthday**           | 6/24                     |
+| **Age**                | 30+                      |
+| **Birthday**           |                          |
 | **Birthplace**         | Luminou                  |
-| **Attribute**          | Rose Flame / Dawn Flame  |
+| **Attribute**          | Floral Flame             |
 | **Curse / Corruption** | (Destroyed) Thorned Rose |
-| **Sexuality**          | Demisexual               |
+| **Sexuality**          | Lesbian                  |
 | **Occupation**         |                          |
 
 ### Personality
@@ -56,12 +48,11 @@ aliases:
 
 ### Relations
 
-|                      |     |
-| -------------------- | --- |
-| **Family**           |     |
-| **Allies / Friends** |     |
-| **Romantic Partner** |     |
-| **Neutral**          |     |
+|                      |                                                                                                                                                                            |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Family**           | [[Ronan Florethorn\|Ronan]] (Father)<br>[[Viola Florethorn\|Viola]] (Mother)<br>[[Rozan Dawnweaver\|Rozan]] (Brother)<br><br>[[Vivian Dawnweaver\|Vivian]] (Sister in Law) |
+| **Allies / Friends** |                                                                                                                                                                            |
+| **Neutral**          |                                                                                                                                                                            |
 
 
 ### Extra
@@ -75,6 +66,7 @@ aliases:
 
 
 ### Backstory
+
 
 
 
@@ -113,7 +105,6 @@ aliases:
 |     |     |
 |     |     |
 |     |     |
-
 
 # Design
 

@@ -26,6 +26,7 @@ aliases:
 | **Species**    | Astri                                            |
 | **Age**        | 500-1000+                                        |
 | **Birthday**   |                                                  |
+| **Birthplace** | Luminou                                          |
 | **Attribute**  | Comet Flame                                      |
 | **Sexuality**  | Bisexual                                         |
 | **Occupation** | Lumen Knights - Chief<br>Realm Leader of Luminou |
