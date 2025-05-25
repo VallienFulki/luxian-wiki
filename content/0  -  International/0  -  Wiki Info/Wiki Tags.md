@@ -1,10 +1,3 @@
-### Character Dev
-
-#CharDev/No-Design - No visuals yet.
-#CharDev/Blank-Slate - No written details yet.
-#CharDev/Incomplete-Details - Details not completely written yet.
-
-
 ### World
 
 #### Realms

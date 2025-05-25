@@ -12,6 +12,10 @@ aliases:
 ---
 # Info
 
+### Bio
+
+"Don't let the nature of legacy burden you. It's your life, live the way you want!"
+
 ### Overview
 
 |                 |                                                |

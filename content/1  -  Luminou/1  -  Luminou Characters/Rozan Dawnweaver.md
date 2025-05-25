@@ -5,13 +5,18 @@ tags:
   - Realms/Luminou
   - Faunoids/Basic_Faunoid
   - Lumen_Knights/Sentinel_Division/Nexus_Flare
-  - CharDev/Incomplete-Details
 aliases:
   - Rozan Florethorn
   - Rozan
   - Rozu
 ---
 # Info
+
+### Bio
+
+"I looked at fate in the face, and told, "I win"."
+
+
 
 ### Overview
 

@@ -4,12 +4,17 @@ tags:
   - Lumen_Knights/Chief
   - Realms/Realm_Leader
   - Realms/Luminou
-  - CharDev/Incomplete-Details
 aliases:
   - Luminous
   - Lumi
 ---
 # Info
+
+### Bio
+
+"Every light is precious. Together, we're a sea of warmth, and light."
+
+
 
 ### Overview
 
