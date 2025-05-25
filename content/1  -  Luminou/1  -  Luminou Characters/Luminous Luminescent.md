@@ -32,30 +32,29 @@ aliases:
 
 ### Personality
 
-|                |      |
-| -------------- | ---- |
-| **Tenderness** | /100 |
-| **Charisma**   | /100 |
-| **Temper**     | /100 |
-| **Intellect**  | /100 |
+|                |        |
+| -------------- | ------ |
+| **Tenderness** | 80/100 |
+| **Charisma**   | 80/100 |
+| **Temper**     | 70/100 |
+| **Intellect**  | 80/100 |
 
 ### Stats
 
-|                      |      |
-| -------------------- | ---- |
-| **Overall Strength** | /100 |
-| **Agility**          | /100 |
-| **Speed**            | /100 |
-| **ME Capacity**      | /100 |
+|                      |        |
+| -------------------- | ------ |
+| **Overall Strength** | 90/100 |
+| **Agility**          | 70/100 |
+| **Speed**            | 70/100 |
+| **ME Capacity**      | 90/100 |
 
 ### Relations
 
-|                      |     |
-| -------------------- | --- |
-| **Family**           |     |
-| **Allies / Friends** |     |
-| **Romantic Partner** |     |
-| **Neutral**          |     |
+|                      |                                                                                                             |
+| -------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **Family**           |                                                                                                             |
+| **Allies / Friends** | [[Wisteria]]<br>[[Chione Eirwen\|Chione]]<br>[[Aurora Eirwen\|Aurora]]<br><br>[[Vivian Dawnweaver\|Vivian]] |
+| **Neutral**          |                                                                                                             |
 
 
 ### Extra
